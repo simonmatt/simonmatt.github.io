@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+Prologue by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-You can use the [editor on GitHub](https://github.com/simonmatt/simonmatt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is Prologue, a simple, single page responsive site template. It features a
+clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
 
-### Markdown
+Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
+more of her amazing work over at deviantART:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+http://ineedchemicalx.deviantart.com/
 
-```markdown
-Syntax highlighted code block
+(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
+and/or use any of Felicia's work without her explicit permission!)
 
-# Header 1
-## Header 2
-### Header 3
+Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
+images you can use for pretty much whatever.
 
-- Bulleted
-- List
+(* = Not included)
 
-1. Numbered
-2. List
+AJ
+aj@lkn.io | @ajlkn
 
-**Bold** and _Italic_ and `Code` text
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Credits:
 
-### Jekyll Themes
+	Demo Images:
+		Felicia Simion (ineedchemicalx.deviantart.com)
+		Unsplash (unsplash.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/simonmatt/simonmatt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+	Icons:
+		Font Awesome (fontawesome.io)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	Other
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
